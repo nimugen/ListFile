@@ -35,8 +35,8 @@ if you using fish:
 ```
 alias ls='lf' | funcsave ls
 ```
+<br><br><br>
 
-
-AUTHORS
+**AUTHORS**<br>
  Built by ZhestyRin and nimugen
  for learning purpose.
