@@ -16,12 +16,7 @@ git clone https://github.com/ZhestyRin/ListFile
 cd ListFile
 ./install.sh
 ```
-
-or manually:
-```
-git clone https://github.com/ZhestyRin/ListFile
-cd Listfile
-```
+<br>
 
 This tool is meant for practice, not a replacement for the traditional GNU ls. 
 But,
